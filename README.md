@@ -23,7 +23,7 @@ Mais uma divisão __*menos*__ visível.
 * Item 3
 
 ### Lista com checkboxes
-- [] Criar página principal
+- [ ] Criar página principal
 - [x] Criar uma lista
 
 ### Tabela
